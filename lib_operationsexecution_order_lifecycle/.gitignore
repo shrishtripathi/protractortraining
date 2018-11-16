@@ -1,0 +1,15 @@
+.DS_Store
+
+.vscode/
+
+node_modules/
+
+target/
+
+debug.log
+
+*.js
+
+reports/
+
+specs/reprots
